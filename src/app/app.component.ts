@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'my-app frist git app';
+  title = 'my-app frist 第一个自己上传的git';
 }
